@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name Trinamic)(type KiCad)(uri /home/patrys/git_KiCad_Components/KiCad_Footprints/Trinamic/Trinamic.pretty)(options "")(descr ""))
+  (lib (name E_Load)(type KiCad)(uri /home/patrys/git_KiCad_Components/KiCad_Footprints/E_Load/E_Load.pretty)(options "")(descr ""))
+  (lib (name WPS)(type KiCad)(uri /home/patrys/git_KiCad_Components/KiCad_Footprints/WPS/WPS.pretty)(options "")(descr ""))
+)

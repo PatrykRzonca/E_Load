@@ -1,0 +1,370 @@
+!PADS-POWERPCB-V2.0-MILS!
+*PART*
+ U7 Package_QFP:LQFP-48_7x7mm_P0.5mm
+ C7 unknown
+ C9 Capacitor_SMD:C_0805_2012Metric
+ C12 Capacitor_SMD:C_0805_2012Metric
+ C14 Capacitor_SMD:C_0805_2012Metric
+ C16 Capacitor_SMD:C_0805_2012Metric
+ C17 Capacitor_SMD:C_0805_2012Metric
+ C8 unknown
+ C10 Capacitor_SMD:C_0805_2012Metric
+ C13 unknown
+ C15 Capacitor_SMD:C_0805_2012Metric
+ C18 Capacitor_SMD:C_0805_2012Metric
+ SW8 unknown
+ J4 unknown
+ SW1 unknown
+ R1 unknown
+ R3 unknown
+ C2 unknown
+ R4 unknown
+ SW2 unknown
+ SW3 unknown
+ SW4 unknown
+ SW5 unknown
+ SW6 unknown
+ SW7 unknown
+ C21 unknown
+ C22 unknown
+ J3 unknown
+ R21 unknown
+ C11 unknown
+ R23 unknown
+ Q4 unknown
+ J2 unknown
+ D2 unknown
+ U8 unknown
+ C20 unknown
+ C23 unknown
+ FB1 unknown
+ Q6 unknown
+ C25 unknown
+ C26 unknown
+ R27 unknown
+ R28 unknown
+ C24 unknown
+ D5 unknown
+ D6 unknown
+ C19 unknown
+ R9 unknown
+ R10 unknown
+ R13 unknown
+ R15 unknown
+ R16 unknown
+ R14 unknown
+ C1 unknown
+ R29 unknown
+ R30 unknown
+ J1 unknown
+ F1 unknown
+ Q1 unknown
+ R2 unknown
+ D1 unknown
+ U4 unknown
+ U5 unknown
+ R7 unknown
+ C3 unknown
+ C4 unknown
+ R17 unknown
+ C5 unknown
+ C6 unknown
+ R18 unknown
+ R6 unknown
+ U3 unknown
+ Rshunt1 unknown
+ R8 unknown
+ R5 unknown
+ U1 unknown
+ U2 unknown
+ U6 unknown
+ R11 unknown
+ R24 unknown
+ R25 unknown
+ D4 unknown
+ H1 unknown
+ H2 unknown
+ Q5 unknown
+ D3 unknown
+ Q2 unknown
+ Q3 unknown
+ R20 unknown
+ R19 unknown
+ R12 unknown
+ R22 unknown
+ R26 unknown
+
+*NET*
+*SIGNAL* Net-(D6-Pad2)
+ D6.2
+ R30.2
+*SIGNAL* Net-(D5-Pad2)
+ D5.2
+ R29.2
+*SIGNAL* Net-(F1-Pad2)
+ J1.1
+ F1.2
+*SIGNAL* GND
+ J4.2
+ SW8.1
+ C12.1
+ C10.1
+ C15.1
+ C13.1
+ C8.1
+ C17.1
+ C16.1
+ C14.1
+ C9.1
+ C7.1
+ U7.8
+ U7.47
+ U7.35
+ U7.23
+ Rshunt1.2
+ R18.1
+ C6.1
+ D4.2
+ R25.2
+ H2.1
+ C18.1
+ U1.1
+ C26.1
+ U2.7
+ U2.1
+ C5.1
+ C2.2
+ SW1.S2
+ SW1.C
+ SW5.1
+ SW7.1
+ SW6.1
+ SW4.1
+ SW3.1
+ SW2.1
+ C22.1
+ C21.1
+ Q4.2
+ C23.2
+ C20.2
+ U8.7
+ U8.26
+ U8.25
+ U8.21
+ U8.18
+ R23.2
+ C11.1
+ J3.4
+ U5.2
+ U4.2
+ C19.2
+ R2.2
+ C4.1
+ C3.1
+ C24.2
+ C1.2
+ J1.2
+ R7.1
+*SIGNAL* Net-(F1-Pad1)
+ F1.1
+ Q1.6
+ Q1.1
+ Q1.2
+ Q1.5
+*SIGNAL* VDD
+ R16.2
+ R14.2
+ R30.1
+ R15.2
+ R13.2
+ R10.2
+ R29.1
+ R4.2
+ C12.2
+ C14.2
+ C16.2
+ C17.2
+ C9.2
+ R3.1
+ U7.1
+ U7.24
+ U7.36
+ U7.48
+ R1.1
+ C7.2
+ R9.2
+*SIGNAL* ON-OFF
+ SW7.2
+ R16.1
+*SIGNAL* Enter
+ R14.1
+ SW5.2
+*SIGNAL* Net-(R6-Pad1)
+ R6.1
+ U4.3
+ R7.2
+*SIGNAL* 3V3_PS
+ U4.5
+ C4.2
+ U2.8
+ U2.6
+*SIGNAL* Net-(D1-Pad2)
+ Q1.3
+ D1.2
+ R2.1
+*SIGNAL* Main_PS
+ Q1.4
+ R6.2
+ D1.1
+ U4.1
+ D2.1
+ J2.1
+ C3.2
+ C5.2
+ R17.2
+ U5.1
+*SIGNAL* Net-(R17-Pad1)
+ U5.3
+ R17.1
+ R18.2
+*SIGNAL* Net-(R27-Pad2)
+ R28.1
+ R27.2
+ U8.14
+*SIGNAL* Net-(J3-Pad3)
+ J3.3
+ U8.15
+*SIGNAL* Net-(J3-Pad2)
+ U8.16
+ J3.2
+*SIGNAL* Net-(FB1-Pad1)
+ U8.20
+ U8.4
+ Q6.4
+ FB1.1
+*SIGNAL* Net-(C24-Pad1)
+ C24.1
+ U8.17
+*SIGNAL* /USB_5V
+ C26.2
+ Q6.2
+ C25.2
+ Q6.1
+ Q6.5
+ Q6.6
+*SIGNAL* CP
+ R9.1
+ SW3.2
+*SIGNAL* CC
+ SW2.2
+ R10.1
+*SIGNAL* CV
+ SW4.2
+ R13.1
+*SIGNAL* CR
+ SW6.2
+ R15.1
+*SIGNAL* Net-(D6-Pad1)
+ D6.1
+ U8.22
+*SIGNAL* Net-(D5-Pad1)
+ D5.1
+ U8.23
+*SIGNAL* Net-(H1-Pad1)
+ H1.1
+ R24.1
+*SIGNAL* Net-(D3-Pad1)
+ Q5.2
+ D3.1
+ Q2.3
+ Q3.1
+ R20.1
+ R22.1
+*SIGNAL* Net-(Q2-Pad2)
+ R19.1
+ Q2.2
+ Q3.2
+ R20.2
+*SIGNAL* Net-(U6-Pad1)
+ U6.1
+ U6.2
+*SIGNAL* GNDA
+ R11.2
+ Q3.3
+*SIGNAL* Net-(D4-Pad1)
+ U6.3
+ R25.1
+ D4.1
+ R24.2
+*SIGNAL* Net-(R12-Pad1)
+ Rshunt1.1
+ R12.1
+*SIGNAL* 5V_PS
+ C6.2
+ U5.5
+ U1.3
+*SIGNAL* Net-(R5-Pad1)
+ U3.1
+ R5.1
+ R8.2
+*SIGNAL* Net-(R12-Pad2)
+ R12.2
+ U3.3
+*SIGNAL* Net-(U3-Pad6)
+ U3.7
+ U3.6
+*SIGNAL* Net-(R11-Pad1)
+ R11.1
+ U3.2
+ R8.1
+*SIGNAL* Net-(R5-Pad2)
+ R5.2
+ U3.5
+*SIGNAL* VREF
+ C15.2
+ C13.2
+*SIGNAL* Net-(C18-Pad2)
+ SW8.2
+ U7.7
+ C18.2
+*SIGNAL* VDDA
+ U7.9
+ C8.2
+ C10.2
+*SIGNAL* Net-(D2-Pad2)
+ Q4.3
+ J2.2
+ D2.2
+*SIGNAL* Net-(C11-Pad2)
+ R23.1
+ Q4.1
+ C11.2
+ R21.2
+*SIGNAL* 5V_USB
+ J3.1
+ C23.1
+ C19.1
+ FB1.2
+ C20.1
+*SIGNAL* Net-(C25-Pad1)
+ R27.1
+ Q6.3
+ C25.1
+*SIGNAL* SWITCH_BUTTON
+ R4.1
+ SW1.S1
+*SIGNAL* ENC_BUTTON_B
+ C1.1
+ U7.46
+ R1.2
+ SW1.B
+*SIGNAL* ENC_BUTTON_A
+ U7.45
+ C2.1
+ R3.2
+ SW1.A
+*SIGNAL* Earth
+ C21.2
+ C22.2
+ J3.5
+*END*

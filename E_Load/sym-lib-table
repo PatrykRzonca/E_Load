@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name E_Load)(type Legacy)(uri /home/patrys/git_KiCad_Components/KiCad_Footprints/E_Load/E_Load.lib)(options "")(descr ""))
+  (lib (name WPS)(type Legacy)(uri /home/patrys/git_KiCad_Components/KiCad_Footprints/WPS/WPS.lib)(options "")(descr ""))
+)
